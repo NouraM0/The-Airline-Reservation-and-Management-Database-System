@@ -28,3 +28,10 @@ Full project documentation.
 
 1. Import the SQL file into MySQL or PostgreSQL
 2. Run the `.jar` file
+
+
+## Author
+
+Noura Alsaadi  
+Shaikha Alzarooni
+American University of Sharjah
